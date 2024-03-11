@@ -34,7 +34,7 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 </p>
 
 
-## <img width="40px"  src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/> Github Stats :
+## <img width="40px"  src="https://img.shields.io/badge/-100000?logo=github&logoColor=white" alt="bhatia"/> Github Stats :
 <div>
 <div style="display: flex; justify-content: flex-start; margin-bottom: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 10px;">
