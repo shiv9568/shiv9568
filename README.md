@@ -10,10 +10,10 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 - ⚡ Fun fact: **I think I am Creative 😁.**
 
 #### connect with me 🤝:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyamaggarwal)
-[![Twitter](https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PriyamAgga61169)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyamaggarwal18/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Priyam08/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/shivansh-bhatia-704569267/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivansh_bhatia_/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shivansh_bhatia_/)
  <br><br>
 
 
@@ -34,21 +34,9 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 </p>
 
 
-## <img width="40px"  src="https://img.shields.io/badge/-100000?logo=github&logoColor=white" alt="bhatia"/> Github Stats :
-<div>
-<div style="display: flex; justify-content: flex-start; margin-bottom: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyamaggarwal18&theme=dracula" alt="GitHub Trophies" />
-  </a>
-</div>
-<br>
-<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamaggarwal18&show_icons=true&locale=en&layout=donut&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=priyamaggarwal18&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamaggarwal18&theme=algolia" alt="GitHub Streak" />
-   
-</div>
-</div>
+
+
+>
 
 ## 💫 My Badges : 
 <p>
@@ -56,24 +44,4 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg"/>
 <img src="https://holopin.me/priyamaggarwal18"/>
 </p>
-
-<details>
-<summary><h2>🎨 My Figma Journey :</h2></summary>
- <p align=left>
-<img width="350px" src="2.png">
-<img width="350px" src="3.png">
-<img width="350px" src="4.png">
-<img width="350px" src="5.png">
-<img width="350px" src="6.png">
-  <img width="350px" src="7.png">
-  <img width="350px" src="8.png">
-<img width="350px" src="9.png">
-  <img width="350px" src="10.png">
-  <img width="350px" src="vastr.png">
- </p>
-</details>
-
-[↑ Back to Top ↑](#top)
-
-
 
