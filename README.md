@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 
-# Hi There!👋 I'm Shivansh Bhatia <img align="right" alt="Your Image" width="450px"  src="[spidertocat.png](https://raw.githubusercontent.com/priyamaggarwal18/priyamaggarwal18/main/spidertocat.png)" />
+# Hi There!👋 I'm Shivansh Bhatia <img align="right" alt="Your Image" width="450px" src="spidertocat.png" />
 **`Digital Designer (Developer/Graphics/Coder)`**
 <br>
 
