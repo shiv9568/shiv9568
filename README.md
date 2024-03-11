@@ -37,11 +37,3 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 
 
 >
-
-## 💫 My Badges : 
-<p>
-<img height="33px" src="open.svg"/>
-<img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg"/>
-<img src="https://holopin.me/priyamaggarwal18"/>
-</p>
-
